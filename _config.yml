@@ -1,6 +1,6 @@
-title:            Data Dominator
-tagline:          Dominates Data
-description:      Data is Dominated
+title:            Ryan Del Bel
+tagline:          
+description:      
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:             "http://rdelbel.github.io"
 
@@ -8,7 +8,7 @@ url:             "http://rdelbel.github.io"
 owner: 
   name:           Ryan Del Bel
   avatar:         bio-photo.jpg
-  bio:            I dominate data
+  bio:            plays with data
   email:          rdelbel@gmail.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: rdelbel
