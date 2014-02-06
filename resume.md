@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /theme-setup/
-title: Theme Setup
-description: "Instructions on how to install and customize the Jekyll theme Minimal Mistakes."
-tags: [Jekyll, theme, responsive]
+permalink: /resume/
+title: Resume
+description: "Ryan Del Bel Resume"
+tags: [Jekyll, theme, responsive, resume]
 image:
   feature: texture-feature-02.jpg
   credit: Texture Lovers
