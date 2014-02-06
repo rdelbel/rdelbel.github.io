@@ -5,8 +5,8 @@ description:      Data is Dominated
 url:             "http://rdelbel.github.io"
 
 # Owner/author information
-owner: Ryan Del Bel
-  name:           Ryan Del Bel
+owner: "Ryan Del Bel"
+  name:           "Ryan Del Bel"
   avatar:         bio-photo.jpg
   bio:            "I dominate data"
   email:          rdelbel@gmail.com
