@@ -1,0 +1,11 @@
+name: "R"
+description: "Ryan Del Bel"
+
+url: "https://github.com/rdelbel/rdelbel.github.io"
+
+paginate: 10
+
+layout: default
+markdown: rdiscount
+permalink: pretty
+pygments: true
