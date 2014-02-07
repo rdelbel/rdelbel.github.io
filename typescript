@@ -1974,20 +1974,34 @@ assets/         favicon.ico     g               Gruntfile.js    index.md        
 [1;41r[40;1H[97m[48;5;232m 59 [m[38;5;253m  [38;5;220mcoderay[m[38;5;253m[38;5;40m:[m[38;5;253m[69C[48;5;233m [m[38;5;253m[41;129H[K[41;129H59,1[10C70%[40;5H[?12l[?25h[?25l[1;40r[40;1H
 [1;41r[40;1H[97m[48;5;232m 60 [m[38;5;253m    [38;5;220mcoderay_line_numbers[m[38;5;253m[38;5;40m:[m[38;5;253m[54C[48;5;233m [m[38;5;253m[41;129H[K[41;129H60,1[10C74%[40;5H[?12l[?25h[?25l[1;40r[40;1H
 [1;41r[40;1H[97m[48;5;232m 61 [m[38;5;253m    [38;5;220mcoderay_line_numbers_start[m[38;5;253m[38;5;40m:[m[38;5;253m [38;5;30m1[m[38;5;253m[46C[48;5;233m [m[38;5;253m[41;129H[K[41;129H61,1[10C77%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 62 [m[38;5;253m    [38;5;220mcoderay_tab_width[m[38;5;253m[38;5;40m:[m[38;5;253m [38;5;30m4[m[38;5;253m[55C[48;5;233m [m[3[38;5;253m Posts[63C[48;5;233m [m[38;5;253m
-[97m[48;5;232m 38 [m[38;5;253m    [38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m /posts/[63C[48;5;233m [m[38;5;253m
-[97m[48;5;232m 39 [m[38;5;253m[38;5;92m # - title:  [m[38;5;253m[66C[48;5;233m [m[38;5;253m
-[97m[48;5;232m 40 [m[38;5;253m[38;5;92m #   url: [m[38;5;253m[69C[48;5;233m [m[38;5;253m[41;129H1,1[11CTop]2;_config.yml (~/blog/rdelbel.github.io) - VIM]1;_config.yml[1;5H[?12l[?25h[?1000l[?1002hP+q436f\P+q6b75\P+q6b64\P+q6b72\P+q6b6c\P+q2332\P+q2334\P+q2569\P+q2a37\P+q6b31\[?25l[41;129H2[2;5H[?12l[?25h[?25l[41;129H3[3;5H[?12l[?25h[?25l[41;129H4[4;5H[?12l[?25h[?25l[41;129H5[5;5H[?12l[?25h[?25l[41;129H6,0-1[6;5H[?12l[?25h[?25l[41;129H7,1  [7;5H[?12l[?25h[?25l[41;129H8[8;5H[?12l[?25h[?25l[41;129H9[9;5H[?12l[?25h[?25l[41;129H10,1[10;5H[?12l[?25h[?25l[41;130H1[11;5H[?12l[?25h[?25l[41;130H2[12;5H[?12l[?25h[?25l[41;130H3[13;5H[?12l[?25h[?25l[41;130H4[14;5H[?12l[?25h[?25l[41;130H5[15;5H[?12l[?25h[?25l[41;130H6[16;5H[?12l[?25h[?25l[41;130H7[17;5H[?12l[?25h[?25l[41;130H8[18;5H[?12l[?25h[?25l[41;130H9[19;5H[?12l[?25h[?25l[41;129H20[20;5H[?12l[?25h[?25l[41;130H1[21;5H[?12l[?25h[?25l[41;130H2[22;5H[?12l[?25h[?25l[41;130H3,0-1[23;5H[?12l[?25h[?25l[41;130H4,1  [24;5H[?12l[?25h[?25l[41;130H5[25;5H[?12l[?25h[?25l[41;130H6[26;5H[?12l[?25h[?25l[41;130H7[27;5H[?12l[?25h[?25l[41;130H8[28;5H[?12l[?25h[?25l[41;130H9,0-1[29;5H[?12l[?25h[?25l[41;129H30,1  [30;5H[?12l[?25h[?25l[41;130H1[31;5H[?12l[?25h[?25l[41;130H2[32;5H[?12l[?25h[?25l[41;130H3[33;5H[?12l[?25h[?25l[41;130H4[34;5H[?12l[?25h[?25l[41;130H5[35;5H[?12l[?25h[?25l[41;130H6[36;5H[?12l[?25h[?25l[41;130H7[37;5H[?12l[?25h[?25l[41;130H8[38;5H[?12l[?25h[?25l[41;130H9[39;5H[?12l[?25h[?25l[41;129H40[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 41 [m[38;5;253m[38;5;92m #   external: true[m[38;5;253m[60C[48;5;233m [m[38;5;253m[41;1H[K[41;129H41,1[11C3%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 42 [m[38;5;253m[79C[48;5;233m [m[38;5;253m[41;129H[K[41;129H42,0-1[9C7%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 43 [m[38;5;253m[38;5;92m# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones[m[38;5;253m[18C[48;5;233m [m[38;5;253m[41;129H[K[41;129H43,1[10C11%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 44 [m[38;5;253m[38;5;220mtimezone[m[38;5;253m[38;5;40m:[m[38;5;253m    America/New_York[50C[48;5;233m [m[38;5;253m[41;129H[K[41;129H44,1[10C14%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 45 [m[38;5;253m[38;5;220mfuture[m[38;5;253m[38;5;40m:[m[38;5;253m      [38;5;30mtrue[m[38;5;253m[62C[48;5;233m [m[38;5;253m[41;129H[K[41;129H45,1[10C18%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 46 [m[38;5;253m[38;5;220mpygments[m[38;5;253m[38;5;40m:[m[38;5;253m    [38;5;30mtrue[m[38;5;253m[62C[48;5;233m [m[38;5;253m[41;129H[K[41;129H46,1[10C22%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 47 [m[38;5;253m[38;5;220mmarkdown[m[38;5;253m[38;5;40m:[m[38;5;253m    kramdown[58C[48;5;233m [m[38;5;253m[41;129H[K[41;129H47,1[10C25%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 48 [m[38;5;253m[79C[48;5;233m [m[38;5;253m[41;129H[K[41;129H48,0-1[8C29%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 49 [m[38;5;253m[38;5;92m# https://github.com/mojombo/jekyll/wiki/Permalinks[m[38;5;253m[28C[48;5;233m [m[38;5;253m[41;129H[K[41;129H49,1[10C33%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 50 [m[38;5;253m[38;5;220mpermalink[m[38;5;253m[38;5;40m:[m[38;5;253m   /:categories/:title/[46C[48;5;233m [m[38;5;253m[41;129H[K[41;129H50,1[10C37%[40;5H[?12l[?25h[?25l[1;40r[40;1H
+[1;41r[40;1H[97m[48;5;232m 62 [m[38;5;253m    [38;5;220mcoderay_tab_width[m[38;5;253m[38;5;40m:[m[38;5;253m [38;5;30m4[m[38;5;253m[55C[48;5;233m [m[38;5;253m[41;129H[K[41;129H62,1[10C81%[40;5H[?12l[?25h[?25l[41;130H1[39;5H[?12l[?25h[?25l[41;130H0[38;5H[?12l[?25h[?25l[41;129H59[37;5H[?12l[?25h[?25l[41;130H8,0-1[36;5H[?12l[?25h[?25l[41;130H7,1  [35;5H[?12l[?25h[?25l[41;130H6[34;5H[?12l[?25h[?25l[41;130H5[33;5H[?12l[?25h[?25l[41;130H4[32;5H[?12l[?25h[?25l[41;130H3[31;5H[?12l[?25h[?25l[41;130H2[30;5H[?12l[?25h[?25l[41;130H1,0-1[29;5H[?12l[?25h[?25l[41;130H0,1  [28;5H[?12l[?25h[?25l[41;129H49[27;5H[?12l[?25h[?25l[41;130H8,0-1[26;5H[?12l[?25h[?25l[41;130H7,1  [25;5H[?12l[?25h[?25l[41;130H6[24;5H[?12l[?25h[?25l[41;130H5[23;5H[?12l[?25h[?25l[41;130H4[22;5H[?12l[?25h[?25l[41;130H3[21;5H[?12l[?25h[?25l[41;130H2,0-1[20;5H[?12l[?25h[?25l[41;130H1,1  [19;5H[?12l[?25h[?25l[41;130H0[18;5H[?12l[?25h[?25l[41;129H39[17;5H[?12l[?25h[?25l[41;130H8[16;5H[?12l[?25h[?25l[41;130H7[15;5H[?12l[?25h[?25l[41;130H6[14;5H[?12l[?25h[?25l[41;132H2[14;6H[?12l[?25h[?25l[41;132H3[14;7H[?12l[?25h[?25l[41;1H[1m-- INSERT --[m[38;5;253m[41;129H[K[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l[41;4H[1mREPLACE --[m[38;5;253m[41;129H[K[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l x url:[41;132H4]2;_config.yml + (~/blog/rdelbel.github.io) - VIM]1;_config.yml[14;8H[?12l[?25h[?25l [38;5;208m- [m[38;5;253m[38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m[41;132H3[14;7H[?12l[?25h[?25l x url:[41;132H4[14;8H[?12l[?25h[41;1H[K[14;7H[?25l[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l  [38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m /resume/ [14;7H[?12l[?25h[?25l[41;132H4[14;8H[?12l[?25h[?25l[41;1H[1m-- INSERT --[m[38;5;253m[41;129H[K[41;129H36,4[10C81%[14;8H[?12l[?25h[?25l  [38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m /resume/[41;132H5[14;9H[?12l[?25h[41;1H[K[14;8H[?25l[41;129H36,4[10C81%[14;8H[?12l[?25h[?25l[41;129H[K[41;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l"_config.yml" 67L, 1904C written]2;ryan@ryanlaptop: ~/blog/rdelbel.github.io]1;ryan@ryanlaptop: ~/blog/rdelbel.github.io
+[39;49m[?1l>[?12l[?25h[?1049l]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ vim _config.yml [3@theme-setup.md[C[5Presume[C[C[C[C[2@_config.yml[C./g "add resume"
+[master 5b8ba1c] add resume
+ 2 files changed, 461 insertions(+), 2 deletions(-)
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 7, done.
+Delta compression using up to 8 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 3.39 KiB, done.
+Total 4 (delta 3), reused 0 (delta 0)
+To https://github.com/rdelbel/rdelbel.github.io
+   61b2406..5b8ba1c  master -> master
+]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ [K]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ [K]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ ls[K[Kcd
+]0;ryan@ryanlaptop: ~ryan@ryanlaptop:~$ ls
+[0m[01;31madt-bundle-linux-x86_64-20131030.zip[0m                             ;129H50,1[10C37%[40;5H[?12l[?25h[?25l[1;40r[40;1H
 [1;41r[40;1H[97m[48;5;232m 51 [m[38;5;253m[79C[48;5;233m [m[38;5;253m[41;129H[K[41;129H51,0-1[8C40%[40;5H[?12l[?25h[?25l[1;40r[40;1H
 [1;41r[40;1H[97m[48;5;232m 52 [m[38;5;253m[38;5;220mkramdown[m[38;5;253m[38;5;40m:[m[38;5;253m[70C[48;5;233m [m[38;5;253m[41;129H[K[41;129H52,1[10C44%[40;5H[?12l[?25h[?25l[1;40r[40;1H
 [1;41r[40;1H[97m[48;5;232m 53 [m[38;5;253m  [38;5;220mauto_ids[m[38;5;253m[38;5;40m:[m[38;5;253m [38;5;30mtrue[m[38;5;253m[63C[48;5;233m [m[38;5;253m[41;129H[K[41;129H53,1[10C48%[40;5H[?12l[?25h[?25l[1;40r[40;1H
@@ -1999,4 +2013,46 @@ assets/         favicon.ico     g               Gruntfile.js    index.md        
 [1;41r[40;1H[97m[48;5;232m 59 [m[38;5;253m  [38;5;220mcoderay[m[38;5;253m[38;5;40m:[m[38;5;253m[69C[48;5;233m [m[38;5;253m[41;129H[K[41;129H59,1[10C70%[40;5H[?12l[?25h[?25l[1;40r[40;1H
 [1;41r[40;1H[97m[48;5;232m 60 [m[38;5;253m    [38;5;220mcoderay_line_numbers[m[38;5;253m[38;5;40m:[m[38;5;253m[54C[48;5;233m [m[38;5;253m[41;129H[K[41;129H60,1[10C74%[40;5H[?12l[?25h[?25l[1;40r[40;1H
 [1;41r[40;1H[97m[48;5;232m 61 [m[38;5;253m    [38;5;220mcoderay_line_numbers_start[m[38;5;253m[38;5;40m:[m[38;5;253m [38;5;30m1[m[38;5;253m[46C[48;5;233m [m[38;5;253m[41;129H[K[41;129H61,1[10C77%[40;5H[?12l[?25h[?25l[1;40r[40;1H
-[1;41r[40;1H[97m[48;5;232m 62 [m[38;5;253m    [38;5;220mcoderay_tab_width[m[38;5;253m[38;5;40m:[m[38;5;253m [38;5;30m4[m[38;5;253m[55C[48;5;233m [m[38;5;253m[41;129H[K[41;129H62,1[10C81%[40;5H[?12l[?25h[?25l[41;130H1[39;5H[?12l[?25h[?25l[41;130H0[38;5H[?12l[?25h[?25l[41;129H59[37;5H[?12l[?25h[?25l[41;130H8,0-1[36;5H[?12l[?25h[?25l[41;130H7,1  [35;5H[?12l[?25h[?25l[41;130H6[34;5H[?12l[?25h[?25l[41;130H5[33;5H[?12l[?25h[?25l[41;130H4[32;5H[?12l[?25h[?25l[41;130H3[31;5H[?12l[?25h[?25l[41;130H2[30;5H[?12l[?25h[?25l[41;130H1,0-1[29;5H[?12l[?25h[?25l[41;130H0,1  [28;5H[?12l[?25h[?25l[41;129H49[27;5H[?12l[?25h[?25l[41;130H8,0-1[26;5H[?12l[?25h[?25l[41;130H7,1  [25;5H[?12l[?25h[?25l[41;130H6[24;5H[?12l[?25h[?25l[41;130H5[23;5H[?12l[?25h[?25l[41;130H4[22;5H[?12l[?25h[?25l[41;130H3[21;5H[?12l[?25h[?25l[41;130H2,0-1[20;5H[?12l[?25h[?25l[41;130H1,1  [19;5H[?12l[?25h[?25l[41;130H0[18;5H[?12l[?25h[?25l[41;129H39[17;5H[?12l[?25h[?25l[41;130H8[16;5H[?12l[?25h[?25l[41;130H7[15;5H[?12l[?25h[?25l[41;130H6[14;5H[?12l[?25h[?25l[41;132H2[14;6H[?12l[?25h[?25l[41;132H3[14;7H[?12l[?25h[?25l[41;1H[1m-- INSERT --[m[38;5;253m[41;129H[K[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l[41;4H[1mREPLACE --[m[38;5;253m[41;129H[K[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l x url:[41;132H4]2;_config.yml + (~/blog/rdelbel.github.io) - VIM]1;_config.yml[14;8H[?12l[?25h[?25l [38;5;208m- [m[38;5;253m[38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m[41;132H3[14;
+[1;41r[40;1H[97m[48;5;232m 62 [m[38;5;253m    [38;5;220mcoderay_tab_width[m[38;5;253m[38;5;40m:[m[38;5;253m [38;5;30m4[m[38;5;253m[55C[48;5;233m [m[38;5;253m[41;129H[K[41;129H62,1[10C81%[40;5H[?12l[?25h[?25l[41;130H1[39;5H[?12l[?25h[?25l[41;130H0[38;5H[?12l[?25h[?25l[41;129H59[37;5H[?12l[?25h[?25l[41;130H8,0-1[36;5H[?12l[?25h[?25l[41;130H7,1  [35;5H[?12l[?25h[?25l[41;130H6[34;5H[?12l[?25h[?25l[41;130H5[33;5H[?12l[?25h[?25l[41;130H4[32;5H[?12l[?25h[?25l[41;130H3[31;5H[?12l[?25h[?25l[41;130H2[30;5H[?12l[?25h[?25l[41;130H1,0-1[29;5H[?12l[?25h[?25l[41;130H0,1  [28;5H[?12l[?25h[?25l[41;129H49[27;5H[?12l[?25h[?25l[41;130H8,0-1[26;5H[?12l[?25h[?25l[41;130H7,1  [25;5H[?12l[?25h[?25l[41;130H6[24;5H[?12l[?25h[?25l[41;130H5[23;5H[?12l[?25h[?25l[41;130H4[22;5H[?12l[?25h[?25l[41;130H3[21;5H[?12l[?25h[?25l[41;130H2,0-1[20;5H[?12l[?25h[?25l[41;130H1,1  [19;5H[?12l[?25h[?25l[41;130H0[18;5H[?12l[?25h[?25l[41;129H39[17;5H[?12l[?25h[?25l[41;130H8[16;5H[?12l[?25h[?25l[41;130H7[15;5H[?12l[?25h[?25l[41;130H6[14;5H[?12l[?25h[?25l[41;132H2[14;6H[?12l[?25h[?25l[41;132H3[14;7H[?12l[?25h[?25l[41;1H[1m-- INSERT --[m[38;5;253m[41;129H[K[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l[41;4H[1mREPLACE --[m[38;5;253m[41;129H[K[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l x url:[41;132H4]2;_config.yml + (~/blog/rdelbel.github.io) - VIM]1;_config.yml[14;8H[?12l[?25h[?25l [38;5;208m- [m[38;5;253m[38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m[41;132H3[14;7H[?12l[?25h[?25l x url:[41;132H4[14;8H[?12l[?25h[41;1H[K[14;7H[?25l[41;129H36,3[10C81%[14;7H[?12l[?25h[?25l  [38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m /resume/ [14;7H[?12l[?25h[?25l[41;132H4[14;8H[?12l[?25h[?25l[41;1H[1m-- INSERT --[m[38;5;253m[41;129H[K[41;129H36,4[10C81%[14;8H[?12l[?25h[?25l  [38;5;220murl[m[38;5;253m[38;5;40m:[m[38;5;253m /resume/[41;132H5[14;9H[?12l[?25h[41;1H[K[14;8H[?25l[41;129H36,4[10C81%[14;8H[?12l[?25h[?25l[41;129H[K[41;1H:[?12l[?25hw[?25l[?12l[?25hq[?25l[?12l[?25h[?25l[?1002l"_config.yml" 67L, 1904C written]2;ryan@ryanlaptop: ~/blog/rdelbel.github.io]1;ryan@ryanlaptop: ~/blog/rdelbel.github.io
+[39;49m[?1l>[?12l[?25h[?1049l]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ vim _config.yml [3@theme-setup.md[C[5Presume[C[C[C[C[2@_config.yml[C./g "add resume"
+[master 5b8ba1c] add resume
+ 2 files changed, 461 insertions(+), 2 deletions(-)
+warning: push.default is unset; its implicit value is changing in
+Git 2.0 from 'matching' to 'simple'. To squelch this message
+and maintain the current behavior after the default changes, use:
+
+  git config --global push.default matching
+
+To squelch this message and adopt the new behavior now, use:
+
+  git config --global push.default simple
+
+See 'git help config' and search for 'push.default' for further information.
+(the 'simple' mode was introduced in Git 1.7.11. Use the similar mode
+'current' instead of 'simple' if you sometimes use older versions of Git)
+
+Counting objects: 7, done.
+Delta compression using up to 8 threads.
+Compressing objects:  25% (1/4)   Compressing objects:  50% (2/4)   Compressing objects:  75% (3/4)   Compressing objects: 100% (4/4)   Compressing objects: 100% (4/4), done.
+Writing objects:  25% (1/4)   Writing objects:  50% (2/4)   Writing objects:  75% (3/4)   Writing objects: 100% (4/4)   Writing objects: 100% (4/4), 3.39 KiB, done.
+Total 4 (delta 3), reused 0 (delta 0)
+To https://github.com/rdelbel/rdelbel.github.io
+   61b2406..5b8ba1c  master -> master
+]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ [K]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ [K]0;ryan@ryanlaptop: ~/blog/rdelbel.github.ioryan@ryanlaptop:~/blog/rdelbel.github.io$ ls[K[Kcd
+]0;ryan@ryanlaptop: ~ryan@ryanlaptop:~$ ls
+[0m[01;31madt-bundle-linux-x86_64-20131030.zip[0m                                   [01;34mOneNote Notebooks[0m
+[01;31mandroid-ndk-r9c-linux-x86_64.tar.bz2[0m                                   ~$ORMPT Internship.pptx
+[01;34mblog[0m                                                                   [01;32mORMPT Internship.pptx[0m
+broadchurch.1x04.720p_hdtv_x264-fov.¼òÌå&Ó¢ÎÄ.ass                      output22.pdf
+[01;34mCalibre Library[0m                                                        output2.pdf
+C:\nppdf32Log\debuglog.txt                                             output.pdf
+[01;34mcode[0m                                                                   package creation
+computecanada                                                          [01;34mPictures[0m
+[01;34mCoursera[0m                                                               [01;36mPlayOnLinux's virtual drives[0m
+cpptutorial.cpp                                                        [01;34mpm[0m
+create R package                                                       [01;34mPublic[0m
+create R package~                                                      [01;34mR[0m
+C:\Users\Ryan\Desktop\orderstat\int2beta1.8.txt                        [01;34mr2python[0m
+[01;34mDesktop[0m                                                                [01;34mrecsys-001[0m
+[01;34mDocuments[0m                                                              [01;34mreportRx[0m
+[01;34mDownloads[0m                                 
