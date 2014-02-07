@@ -37,7 +37,9 @@ University of Foreign Languages
 
 Work Experience
 -
+
 **Biostatistics Intern** Princess Margaret Cancer Center May 2013-Present
+
 * Spearheaded the development of two R packages to standardize reporting, increase productivity, reduce errors, and enable reproducible research in clinical and genetic studies
 * Developed and implemented novel statistical learning methods to determine the optimal treatment choice for patients based on their unique combination of clinical,  demographic, and genetic features
 * Closely collaborated with many clinicians on several aspects of their clinical and genetic studies including study design, data cleaning,
