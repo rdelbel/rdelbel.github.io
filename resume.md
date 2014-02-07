@@ -60,14 +60,14 @@ projects
 
 Academic Experience & Honours 
 -
-Teaching Assistant, University of Waterloo 
-In Class Teacher Assistant, St. David High School 
-Invited Speaker at the University of Toronto Biostatistics Hands-on workshop
+* Teaching Assistant, University of Waterloo 
+* In Class Teacher Assistant, St. David High School 
+* Invited Speaker at the University of Toronto Biostatistics Hands-on workshop
 series
-Placed on The Terms Deans Honour List in last four terms of undergrad 
-Passed CFA Level 1 Exam
-Obtained Teaching English as a Foreign Language (TEFL) certificate 
-Won Chinese Government Scholarship
+* Placed on The Terms Deans Honour List in last four terms of undergrad 
+* Passed CFA Level 1 Exam
+* Obtained Teaching English as a Foreign Language (TEFL) certificate 
+* Won Chinese Government Scholarship
 
 Representative Manuscripts (Under Review)
 -
