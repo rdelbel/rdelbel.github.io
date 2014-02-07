@@ -27,12 +27,12 @@ inference, and predictions on large-scale problems
  
 Education
 -
-**M.Math** Biostatistics, University of Waterloo, 92% 2012-Present
-**Chinese Government Scholarship Student** Mandarin Chinese, 2011-2012 Dalian
+* **M.Math** Biostatistics, University of Waterloo, 92% 2012-Present
+* **Chinese Government Scholarship Student** Mandarin Chinese, 2011-2012 Dalian
 University of Foreign Languages
-**Post Degree Student** Statistics, University of Waterloo, 90% 2011
-**Exchange Student** Math, Chinese University of Hong Kong 2010
-**B.Math** Mathematical Studies major, Pure Math minor, University of Waterloo,
+* **Post Degree Student** Statistics, University of Waterloo, 90% 2011
+* **Exchange Student** Math, Chinese University of Hong Kong 2010
+* **B.Math** Mathematical Studies major, Pure Math minor, University of Waterloo,
  85%, 2007-2010 
 
 Work Experience
