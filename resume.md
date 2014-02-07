@@ -32,9 +32,7 @@ Education
 Dalian University of Foreign Languages, China, 2011-2012
 * **Post Degree Student** Statistics, University of Waterloo, Canada, 90% 2011
 * **Exchange Student** Math, Chinese University of Hong Kong, Hong Kong, 2010
-* **B.Math** Mathematical Studies major, Pure Math minor, University of
-* Waterloo, Canada,
- 85%, 2007-2010 
+* **B.Math** Mathematical Studies major, Pure Math minor, University of Waterloo, Canada, 85%, 2007-2010 
 
 Work Experience
 -
