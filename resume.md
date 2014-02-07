@@ -48,6 +48,7 @@ Work Experience
  
  
 **Service Continuity Assistant** OLG   Summer 2008
+
 * Worked with several teams on many ongoing disaster recovery projects 
 * Lead an initiative to redesign the templates of key disaster recovery
 documents
