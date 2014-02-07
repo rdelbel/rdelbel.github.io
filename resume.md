@@ -71,6 +71,7 @@ Representative Manuscripts (Under Review)
 **Ryan Del Bel**, Wei Xu. Decision Tree Models for Personalized Medicine:
 Survival Outcomes With High Dimensional Treatment Interactions.
 
+
 Wei Fan Liu, Christine Lam, **Ryan Del Bel**, et al. Association between
 polymorphisms of the FOXF1 and MHC locus genes and gastroesophageal reflux
 disease (GERD).
