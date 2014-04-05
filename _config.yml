@@ -4,7 +4,7 @@ description:      Learning From Data
 # Your site's domain goes here. Leave localhost server or blank when working locally.
 url:             "http://rdelbel.github.io"
 
-# Owner/author information
+## Owner/author information
 owner: 
   name:           Ryan Del Bel
   avatar:         bio-photo.jpg
